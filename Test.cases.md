@@ -11,7 +11,7 @@
 | 1                  | Click the _Mac_ category in the Header                                    | _Mac_ page is opened.                                                                   |
 | 2                  | Click on buy option under any MacBook picture                             | Page with selected MacBook is opened.                                                   |  
 | 3                  | Select diagonal/color/type of the MacBook and click on _Select_ button    | Page with customization of selected MacBook is opened.                                  | 
-| 4                  | Select processor/memory/storage/software and click on _Add to bag_ button | MacBook added to bag. Button _Review Bag_ is appeared. List of essentials is displayed. | 
+| 4                  | Select processor/memory/storage/software and click on _Add to bag_ button | MacBook added to bag. Button _Review Bag_ appears. List of essentials is displayed. | 
 
 ### 2. Adding IPhone to the bag
 
